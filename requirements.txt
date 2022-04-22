@@ -2,4 +2,6 @@ nltk==3.4.5
 wikipedia==1.4.0
 inflection==0.3.1
 python-dateutil==2.7.3
-git+https://github.com/rdflib/rdflib@master
+pyparsing==2.4.7 
+rdflib-jsonld==0.5.0 
+rdflib==4.2.2
